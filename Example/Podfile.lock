@@ -1,0 +1,16 @@
+PODS:
+  - ErpCommon (0.1.0)
+
+DEPENDENCIES:
+  - ErpCommon (from `../`)
+
+EXTERNAL SOURCES:
+  ErpCommon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ErpCommon: 709b3fb78abaf1dd6b3b0cb17fc88cfff3b497d7
+
+PODFILE CHECKSUM: 9ea33938e0b49e9e55b593e6749c2f4564c50dbf
+
+COCOAPODS: 1.11.3

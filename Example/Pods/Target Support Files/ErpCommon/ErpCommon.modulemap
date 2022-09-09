@@ -1,0 +1,6 @@
+framework module ErpCommon {
+  umbrella header "ErpCommon-umbrella.h"
+
+  export *
+  module * { export * }
+}
